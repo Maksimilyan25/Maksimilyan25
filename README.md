@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Макс 👋
 
-<!--
-**Maksimilyan25/Maksimilyan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+Я — backend-разработчик на Python.
 
-Here are some ideas to get you started:
+## Навыки
+- **Языки программирования**: Python
+- **Фреймворки**: Django
+- **Базы данных**: SQLite, SQL
+- **Инструменты**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Бlogikum](https://github.com/Maksimilyan25/Blogicum): Мини соц-сеть "Блогикум".
+- [ВсеВПоход!](https://github.com/Maksimilyan25/pohod): Сайт для похода.
+- [HappyBirthday](https://github.com/Maksimilyan25/happy_birthday): Сайт напоминалка о Дне рождении.
+- [Змейка](https://github.com/Maksimilyan25/the_snake): Игра змейка.
+
+## Связь со мной
+- 📸 Instagram: [@iiimaksimilyan](https://instagram.com/iiimaksimilyan)
+- 💬 Telegram: [@vrtmng](https://t.me/vrtmng)
